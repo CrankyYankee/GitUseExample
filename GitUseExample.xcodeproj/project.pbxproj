@@ -12,6 +12,7 @@
 		D1E9E4F81F7DDD0D00726863 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D1E9E4F61F7DDD0D00726863 /* Main.storyboard */; };
 		D1E9E4FA1F7DDD0D00726863 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D1E9E4F91F7DDD0D00726863 /* Assets.xcassets */; };
 		D1E9E4FD1F7DDD0D00726863 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D1E9E4FB1F7DDD0D00726863 /* LaunchScreen.storyboard */; };
+		D1E9E5051F7EB5E700726863 /* MapForItinerary.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1E9E5041F7EB5E700726863 /* MapForItinerary.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		D1E9E4F91F7DDD0D00726863 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D1E9E4FC1F7DDD0D00726863 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D1E9E4FE1F7DDD0D00726863 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D1E9E5041F7EB5E700726863 /* MapForItinerary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapForItinerary.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				D1E9E4F21F7DDD0D00726863 /* AppDelegate.swift */,
 				D1E9E4F41F7DDD0D00726863 /* ViewController.swift */,
+				D1E9E5041F7EB5E700726863 /* MapForItinerary.swift */,
 				D1E9E4F61F7DDD0D00726863 /* Main.storyboard */,
 				D1E9E4F91F7DDD0D00726863 /* Assets.xcassets */,
 				D1E9E4FB1F7DDD0D00726863 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			files = (
 				D1E9E4F51F7DDD0D00726863 /* ViewController.swift in Sources */,
 				D1E9E4F31F7DDD0D00726863 /* AppDelegate.swift in Sources */,
+				D1E9E5051F7EB5E700726863 /* MapForItinerary.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
